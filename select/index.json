@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Luminous Bloom",
+  "base_artist": "花の騎士シンシア(CV.鬼頭明里)、花の騎士ピュリティ(CV.伊藤美来)、プリンセッション・オーケストラ",
+  "createdAt": "2026-03-05T07:55:57.176612Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Luminous Bloom",
+      "artist": "花の騎士シンシア(CV.鬼頭明里)/花の騎士ピュリティ(CV.伊藤美来)/プリンセッション・オーケストラ",
+      "has_synced": false,
+      "path": "select/pl_01_Luminous_Bloom_花の騎士シンシア(CV.鬼頭明里)_花の騎士ピュリティ(CV.伊藤美来)_プリンセッション・オーケストラ.txt"
+    }
+  ]
+}
